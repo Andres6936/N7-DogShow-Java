@@ -1,0 +1,83 @@
+#---------------------------------------------------------
+# Dogs Show
+#---------------------------------------------------------
+
+total.dogs = 13
+
+dog1.name = 1
+dog1.race = 1
+dog1.image = 1
+dog1.points = 1
+dog1.age = 1
+
+dog2.name = 2
+dog2.race = 2
+dog2.image = 2
+dog2.points = 2
+dog2.age = 2
+
+dog3.name = 3
+dog3.race = 3
+dog3.image = 3
+dog3.points = 3
+dog3.age = 3
+
+dog4.name = 4
+dog4.race = 4
+dog4.image = 4
+dog4.points = 4
+dog4.age = 4
+
+dog5.name = 5
+dog5.race = 5
+dog5.image = 5
+dog5.points = 5
+dog5.age = 5
+
+dog6.name = 6
+dog6.race = 6
+dog6.image = 6
+dog6.points = 6
+dog6.age = 6
+
+dog7.name = 7
+dog7.race = 7
+dog7.image = 7
+dog7.points = 7
+dog7.age = 7
+
+dog8.name = 8
+dog8.race = 8
+dog8.image = 8
+dog8.points = 8
+dog8.age = 8
+
+dog9.name = 9
+dog9.race = 9
+dog9.image = 9
+dog9.points = 9
+dog9.age = 9
+
+dog10.name = 10
+dog10.race = 10
+dog10.image = 10
+dog10.points = 10
+dog10.age = 10
+
+dog11.name = 11
+dog11.race = 11
+dog11.image = 11
+dog11.points = 11
+dog11.age = 11
+
+dog12.name = 12
+dog12.race = 12
+dog12.image = 12
+dog12.points = 12
+dog12.age = 12
+
+dog13.name = 13
+dog13.race = 13
+dog13.image = 13
+dog13.points = 13
+dog13.age = 13
