@@ -1,0 +1,71 @@
+#---------------------------------------------------------
+# Dogs of the Show
+#---------------------------------------------------------
+
+total.dogs = 11
+
+dog1.name = Puppy
+dog1.race = Great Dane
+dog1.image = .//data//gran_danes.jpg
+dog1.points = 70
+dog1.age = 10
+
+dog2.name = Taylor
+dog2.race = Beagle
+dog2.image = .//data//beagle.jpg
+dog2.points = 75
+dog2.age = 11
+
+dog3.name = Cobrador
+dog3.race = Akita
+dog3.image = .//data//akita.jpg
+dog3.points = 90
+dog3.age = 12
+
+dog4.name = Brutal y Mamut
+dog4.race = Doberman
+dog4.image = .//data//dobe.jpg
+dog4.points = 80
+dog4.age = 13
+
+dog5.name = Maximus
+dog5.race = Spanish Mast
+dog5.image = .//data//mastinEsp.jpg
+dog5.points = 60
+dog5.age = 18
+
+dog6.name = Tony
+dog6.race = Bull Terrier
+dog6.image = .//data//bullTerrier.jpg
+dog6.points = 63
+dog6.age = 18
+
+dog7.name = Nieve
+dog7.race = Giant of the Pyrenees
+dog7.image = .//data//gigan_pirineos.jpg
+dog7.points = 50
+dog7.age = 19
+
+dog8.name = Titán
+dog8.race = Pug
+dog8.image = .//data//pug.jpg
+dog8.points = 55
+dog8.age = 28
+
+dog9.name = Leviatán
+dog9.race = Chiuahua
+dog9.image = .//data//chih.jpg
+dog9.points = 40
+dog9.age = 38
+
+dog10.name = Tarzán
+dog10.race = Gosque
+dog10.image = .//data//gosque.jpg
+dog10.points = 100
+dog10.age = 137
+
+dog11.name = Fido
+dog11.race = Neapolitan Mastin
+dog11.image = .//data//mastin.jpg
+dog11.points = 83
+dog11.age = 16
